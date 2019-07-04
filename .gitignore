@@ -1,0 +1,9 @@
+/*\.cmo
+/*\.cmi
+/lexer.ml
+/lexer.mli
+/parser.ml
+/parser.mli
+/lexer_test
+/parser_test
+/_scheme
